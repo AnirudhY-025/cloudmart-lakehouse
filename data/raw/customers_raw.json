@@ -1,0 +1,30 @@
+[
+  {
+    "customer_id": "CUST101",
+    "name": "Alice Johnson",
+    "city": "Seattle",
+    "state": "WA",
+    "email": "alice@example.com"
+  },
+  {
+    "customer_id": "CUST102",
+    "name": "Bob Smith",
+    "city": "Austin",
+    "state": "TX",
+    "email": "bob@example.com"
+  },
+  {
+    "customer_id": "CUST103",
+    "name": "Charlie Brown",
+    "city": "New York",
+    "state": "NY",
+    "email": "charlie@example.com"
+  },
+  {
+    "customer_id": "CUST104",
+    "name": "Diana Prince",
+    "city": "San Francisco",
+    "state": "CA",
+    "email": "diana@example.com"
+  }
+]
